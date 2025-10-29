@@ -2,7 +2,7 @@ Vibe Commerce - Mock E-Commerce App
 
 A full-stack e-commerce shopping cart application built using the MERN stack (MongoDB, Express, React, Node.js). This project simulates a basic online store experience, allowing users to browse products, add items to a persistent cart, and proceed through a mock checkout process.
 
-[Link to Demo Video] (<- Add your Loom/YouTube link here)
+[Link to Demo Video] (https://www.loom.com/share/55cdaa5dfa59419ab09eac0fedb5dfa1)
 
 Features
 
